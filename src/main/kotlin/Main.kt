@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
     println("Hello World!")
 
-    var name = "Joan Muthoni"
+    var name = "fullname"
     println(name)
     var age = "24"
     println(age)
